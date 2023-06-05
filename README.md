@@ -2,10 +2,11 @@
 
 ### Mi recorrido en el área de Informática:
 
-+ Técnico en Computación (Recibido en la Escuelta Técnica N°12).
-+ Instancia Nacional en las Olimpiadas Técnincas de Computación (ONETP).
++ Técnico en Computación (Recibido en la Escuelta Técnica N°12 - 2022
++ Olimpíada Nacional ETP 2022 (ONETP - 2022).
 + Ingeniería en Informática (Cursando en la Universidad de la Empresa Argentina - UADE).
-+ Ganador de la Segunda edición de la Copa Algoritmica de Python en UADE. 
++ Ganador de la Segunda edición de la Copa Algoritmica de Python en UADE.
+
 <!--
 **LucasFelix240/LucasFelix240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
