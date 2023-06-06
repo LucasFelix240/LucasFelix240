@@ -1,6 +1,6 @@
 ## Mi recorrido en el área de Informática:
 
-+ Técnico en Computación (Recibido en la Escuelta Técnica N°12 - 2022)
++ Técnico en Computación (Recibido en la Escuelta Técnica N°12 - 2022).
 + Instancia Nacional en las Olimpíadas Técnicas de Programación 2022 (ONETP).
 + Ingeniería en Informática (Cursando en la Universidad de la Empresa Argentina - UADE).
 + Ganador de la Segunda edición de la Copa Algorítmica de Python 2023 - UADE.
